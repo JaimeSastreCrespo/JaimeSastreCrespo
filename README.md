@@ -4,11 +4,11 @@ I am Jaime Sastre Crespo,I am currently attending a Bootcamp in Data Analytics F
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JaimeSastreCrespo" alt="JaimeSastreCrespo" /> </p>
 
-- 🌱 I’m currently learning ** Machine Learning, Python (you know, one never stops) **
+- 🌱 I’m currently learning ** Machine Learning, Python (you know, one never stops), Azure, MySQL **
 - 👯 I’m looking to collaborate on Data Analytics Related Projects **
 - 🤔 I’m looking for a job in the Data field **
 - 🥅 2022 Goals: To be profficient in Python and Machine learning :|
-- ⚡ Fun fact: I love surfing, playing my guitar.
+- ⚡ Fun fact: I love surfing and playing my guitar.
 
 <p align="center">
     <a href="https://github.com/JaimeSastreCrespo/github-readme-streak-stats">
