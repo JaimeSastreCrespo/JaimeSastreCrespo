@@ -6,8 +6,7 @@ I am Jaime Sastre Crespo,I am currently attending a Bootcamp in Data Analytics F
 
 - 🌱 I’m currently learning ** Machine Learning, Python (you know, one never stops), Azure, MySQL **
 - 👯 I’m looking to collaborate on Data Analytics Related Projects **
-- 🤔 I’m looking for a job in the Data field **
-- 🥅 2022 Goals: To be profficient in Python and Machine learning :|
+- 🥅 2023 Goals: To find a job where I can develop my skills and continue learning :|
 - ⚡ Fun fact: I love surfing and playing my guitar.
 
 <p align="center">
