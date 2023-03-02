@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaime</h1>
 
-I am Jaime Sastre Crespo,I am currently looking for a job Full Time in Paris. I am a tech enthusiast & a self learner; music & nature lover; sport as well and especially, surfer .
+I am Jaime Sastre Crespo,I am currently looking for a job Full Time in Paris. I am a tech enthusiast & a self learner; music & nature lover; sports as well and especially, surfing .
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JaimeSastreCrespo" alt="JaimeSastreCrespo" /> </p>
 
