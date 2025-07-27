@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jaime</h1>
 
-I am Jaime Sastre Crespo,I am currently looking for a full time job  in Paris. I am a tech enthusiast & a self learner; music & nature lover; sports as well and especially, surfing .
+Data analyst and future data engineer working at Nissan Europe. I am a tech enthusiast & a self learner; music & outdoors sports enthusiast especially, surfing .
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JaimeSastreCrespo" alt="JaimeSastreCrespo" /> </p>
 
-- 🌱 I’m currently learning ** Machine Learning, Python (you know, one never stops), Azure, MySQL **
-- 👯 I’m looking to collaborate on Data Analytics Related Projects **
-- 🥅 2023 Goals: To find a job where I can develop my skills and continue learning :|
-- ⚡ Fun fact: I love surfing and playing my guitar.
+- 🌱 I’m currently learning ** Machine Learning, Python and SQL (you know, one never stops), DBT **
+- 🥅 2025 Goals: increased my tools repertory: DBT and Python next level incoming :|
+- ⚡ Fun fact: surfing addict and playing my guitar.
 
 <p align="center">
     <a href="https://github.com/JaimeSastreCrespo/github-readme-streak-stats">
